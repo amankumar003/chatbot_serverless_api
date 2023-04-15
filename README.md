@@ -2,5 +2,6 @@
 
 #Chat gpt4 powered chatting
 #openAI
-use below link to test the api
+
+use link to test the api ( in postman) 
 https://bi4v3dlv55.execute-api.us-east-1.amazonaws.com/dev/chatWithPersonna
